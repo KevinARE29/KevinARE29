@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-<br>
 <a href="https://www.linkedin.com/in/kevinare29/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:kevinare295@gmail.com?subject=Hi%20Kevin"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
